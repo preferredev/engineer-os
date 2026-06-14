@@ -144,4 +144,4 @@ Contributions welcome. When adding or changing a skill:
 
 ## License
 
-[MIT](LICENSE) © 2026 croop
+[MIT](LICENSE) © 2026 preferredev
